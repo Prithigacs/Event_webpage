@@ -15,4 +15,9 @@ A simple event webpage created using **HTML and CSS**. This website showcases up
 ## 📌 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/event_webpage.git
+   git clone https://github.com/Prithigacs/event_webpage.git
+2. Open index.html in a browser.
+🌐 Live Demo
+🔗 View Website
+
+
